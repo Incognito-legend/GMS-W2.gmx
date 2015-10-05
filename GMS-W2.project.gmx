@@ -12,6 +12,8 @@
     <sprite>sprites\wall</sprite>
     <sprite>sprites\Door</sprite>
     <sprite>sprites\Projectile</sprite>
+    <sprite>sprites\sprite6</sprite>
+    <sprite>sprites\sprite7</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -24,8 +26,10 @@
     <object>objects\objWall</object>
     <object>objects\object4</object>
     <object>objects\objProjectile</object>
+    <object>objects\objButton</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room2</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
