@@ -59,7 +59,7 @@
         <exetype>1</exetype>
         <functionname>action_set_motion</functionname>
         <codestring></codestring>
-        <whoName>objPlayer_multi</whoName>
+        <whoName>objPlayer</whoName>
         <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
@@ -85,7 +85,21 @@
         <exetype>1</exetype>
         <functionname>action_move_start</functionname>
         <codestring></codestring>
-        <whoName>self</whoName>
+        <whoName>objPlayer</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>110</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move_start</functionname>
+        <codestring></codestring>
+        <whoName>objPlayer</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
       </action>
@@ -102,6 +116,20 @@
         <functionname>action_move_start</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>110</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_move_start</functionname>
+        <codestring></codestring>
+        <whoName>objPlayer</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
       </action>
