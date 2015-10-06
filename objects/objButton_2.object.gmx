@@ -11,6 +11,20 @@
     <event eventtype="0" enumb="0">
       <action>
         <libid>1</libid>
+        <id>422</id>
+        <kind>1</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>541</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -61,38 +75,36 @@
           </argument>
         </arguments>
       </action>
-    </event>
-    <event eventtype="1" enumb="0">
       <action>
         <libid>1</libid>
-        <id>402</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>-1</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_if_collision</functionname>
+        <id>424</id>
+        <kind>2</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
-        <relative>-1</relative>
+        <relative>0</relative>
         <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>64</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>64</string>
-          </argument>
-          <argument>
-            <kind>4</kind>
-            <string>1</string>
-          </argument>
-        </arguments>
       </action>
     </event>
     <event eventtype="4" ename="objPlayer">
+      <action>
+        <libid>1</libid>
+        <id>422</id>
+        <kind>1</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
       <action>
         <libid>1</libid>
         <id>541</id>
@@ -144,6 +156,20 @@
             <string>0</string>
           </argument>
         </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>424</id>
+        <kind>2</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>0</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
       </action>
     </event>
   </events>
