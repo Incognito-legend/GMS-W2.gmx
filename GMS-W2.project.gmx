@@ -19,6 +19,9 @@
     <sprite>sprites\Lives</sprite>
     <sprite>sprites\Enemy_Gravewalker_Inactive</sprite>
     <sprite>sprites\Trap</sprite>
+    <sprite>sprites\Lia_Portrait</sprite>
+    <sprite>sprites\Portrait_Border</sprite>
+    <sprite>sprites\sprite15</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -42,11 +45,13 @@
     <object>objects\objGraveWalker</object>
     <object>objects\objStatue</object>
     <object>objects\objTrap</object>
+    <object>objects\objCharacter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
     <room>rooms\room1</room>
     <room>rooms\room0</room>
+    <room>rooms\room3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
